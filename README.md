@@ -2,7 +2,7 @@
 
 
 # 🙃 Who am I ?
-I'm a french dev web !<br><br>Je vais donc continuer en français car je suis français…<br><br>J'utilise principalement le langage PHP avec le Framework Laravel.<br>J'ai un Bac+3 Concepteur développeur d'application, formation réalisée à la CCI de Strasbourg.<br><br>Actuellement, je travaille dans l'entreprise 3CGEST : intégrateur d'un ERP français.<br>J'y réalise des connecteurs entre les dossiers clients de leur ERP et aussi entre e-commerce et ERP.
+I'm a french dev web !<br><br>Je vais donc continuer en français car je suis français…<br><br>J'utilise principalement le langage PHP avec le Framework Laravel.<br>Je suis le Bac+3 Concepteur développeur d'application, formation réalisée à la CCI de Strasbourg.<br><br>Actuellement, je travaille dans l'entreprise 3CGEST : intégrateur d'un ERP français.<br>J'y réalise des connecteurs entre les dossiers clients de leur ERP et aussi entre e-commerce et ERP.
 
 
 # 💻 Tech Stack :
