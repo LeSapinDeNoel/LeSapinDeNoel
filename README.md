@@ -5,18 +5,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=25&duration=3000&color=E62756&weight=800&center=true&vCenter=true&lines=French+Developer;PHP;Laravel;HTML+SASS">
 </p>
 
-# 🙃 Who am I ?
-I'm a french dev web !<br><br>Je vais donc continuer en français car je suis français…<br><br>J'utilise principalement le langage PHP avec le Framework Laravel.<br>Je suis le Bac+3 Concepteur développeur d'application, formation réalisée à la CCI de Strasbourg.<br><br>Actuellement, je travaille dans l'entreprise 3CGEST : intégrateur d'un ERP français.<br>J'y réalise des connecteurs entre les dossiers clients de leur ERP et aussi entre e-commerce et ERP.
-
-
 # 💻 Tech Stack :
-
-  - Front \
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) \
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) \
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  - Library / Framework \
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+<table align="center">
+  <tr>
+    <td valign="top" width="25%">
+      <h2 align="center">Frontend</h2> 
+      <div align="center">           
+        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>  
+        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>  
+        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/></a>
+      </div>
+      <h2 align="center">Library / Framework</h2>
+      <div align="center">
+        <a href="https://sass-lang.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Sass"/></a>
+      </div>
+    </td>
+  </tr>
+</table> 
 
   - Back \
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
