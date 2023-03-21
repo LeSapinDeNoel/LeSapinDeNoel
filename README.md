@@ -44,11 +44,11 @@
       </div>
     </td>      
     <td valign="top" width="20%">
-      <h2 align="center">DataBase</h2> 
+      <h2 align="center">ToolsKit</h2> 
       <div align="center">           
         <a href="https://trello.com/fr" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"/></a><br>
         <a href="https://www.notion.so" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/></a>
-      <h2 align="center">ServerSide</h2>
+      <h2 align="center">Design</h2>
       <div align="center">
         <a href="https://www.figma.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a><br>
         <a href="https://www.adobe.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premier Pro"/></a>
