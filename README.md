@@ -19,8 +19,7 @@
       <div align="center">
         <a href="https://sass-lang.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Sass"/></a>
       </div>
-    </td>
-    
+    </td>    
     <td valign="top" width="20%">
       <h2 align="center">Back</h2> 
       <div align="center">           
@@ -30,24 +29,22 @@
         <a href="https://laravel.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a><br>
         <a href="https://codeigniter.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" alt="CodeIgniter"/></a>
       </div>
-    </td>
-      
+    </td>      
     <td valign="top" width="20%">
       <h2 align="center">DataBase</h2> 
       <div align="center">           
-        <a href="https://www.mysql.com/fr/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"/></a>
+        <a href="https://www.mysql.com/fr/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"/></a><br>
         <a href="https://mariadb.org" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDb"/></a>
       <h2 align="center">ServerSide</h2>
       <div align="center">
         <a href="https://httpd.apache.org" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/></a><br>
         <a href="https://www.nginx.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></a>
       </div>
-    </td>
-      
+    </td>      
     <td valign="top" width="20%">
       <h2 align="center">DataBase</h2> 
       <div align="center">           
-        <a href="https://trello.com/fr" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"/></a>
+        <a href="https://trello.com/fr" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"/></a><br>
         <a href="https://www.notion.so" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/></a>
       <h2 align="center">ServerSide</h2>
       <div align="center">
