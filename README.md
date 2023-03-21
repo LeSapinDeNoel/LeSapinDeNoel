@@ -29,7 +29,9 @@
         <a href="https://laravel.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a><br>
         <a href="https://codeigniter.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" alt="CodeIgniter"/></a>
       </div>
-    </td>      
+    </td>
+  </tr>
+  <tr>
     <td valign="top" width="20%">
       <h2 align="center">DataBase</h2> 
       <div align="center">           
