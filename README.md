@@ -66,7 +66,7 @@
 ---
 <div align="center">
   <a heref="https://visitcount.itsvg.in">
-     <img src="[https://github-readme-stats.vercel.app/api?username=Sapheko&theme=gotham&hide_border=false&include_all_commits=false&count_private=false](https://visitcount.itsvg.in/api?id=Sapheko&icon=5&color=0)" style="height: 140px"/>
+     <img src="https://visitcount.itsvg.in/api?id=Sapheko&icon=5&color=0"/>
   </a>
 </div>
 
