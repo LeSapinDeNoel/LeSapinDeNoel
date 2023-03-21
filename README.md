@@ -1,5 +1,9 @@
 <img src="https://media.tenor.com/CwZDbX7DvR8AAAAd/pixel-sakura.gif" width="100%">
 
+<h1 align="center">Ohayo ! 🙃</h1>
+<p style="margin: 15px;" align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=25&duration=3000&color=E62756&weight=800&center=true&vCenter=true&lines=French+Developer;PHP;Laravel;HTML+SASS">
+</p>
 
 # 🙃 Who am I ?
 I'm a french dev web !<br><br>Je vais donc continuer en français car je suis français…<br><br>J'utilise principalement le langage PHP avec le Framework Laravel.<br>Je suis le Bac+3 Concepteur développeur d'application, formation réalisée à la CCI de Strasbourg.<br><br>Actuellement, je travaille dans l'entreprise 3CGEST : intégrateur d'un ERP français.<br>J'y réalise des connecteurs entre les dossiers clients de leur ERP et aussi entre e-commerce et ERP.
