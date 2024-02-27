@@ -60,9 +60,9 @@
 
 # 📊 GitHub Stats :
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LeSapinDeNoel&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" style="height: 140px"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeSapinDeNoel&theme=gotham&hide_border=falsel" style="height: 140px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeSapinDeNoel&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height: 140px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LeSapinDeNoel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="height: 140px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeSapinDeNoel&theme=vue-dark&hide_border=true" style="height: 140px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeSapinDeNoel&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="height: 140px"/>
 </div>
   
 ---
